@@ -1,7 +1,7 @@
 % This is an example to illustrate the algorithm in "Adaptive dynamic programming and adaptive
 % optimal output regulation of linear systems," by Weinan Gao and Zhong-Ping Jiang
 % published in IEEE Transactions on Automatic Control, 2016.
-function []=Gao_TAC2016()
+function []=TAC_2016()
 clear all; clc;  close all;
 %% initialization
 global A B K E Xstar Ustar X_trial
